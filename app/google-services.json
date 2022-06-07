@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "301593565040",
+    "firebase_url": "https://login-and-reg-61909-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "login-and-reg-61909",
+    "storage_bucket": "login-and-reg-61909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301593565040:android:f6f0675d5d13fd24dd61b5",
+        "android_client_info": {
+          "package_name": "com.example.swast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301593565040-imkpsfco7ncrap87tnqi7s5mv4clgige.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO4218tW-ks7uc3iOsR4ZtXsFN_W2gt3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301593565040-imkpsfco7ncrap87tnqi7s5mv4clgige.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
